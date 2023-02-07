@@ -11,7 +11,7 @@ Tus tareas consisten en:
 
 <img src='/images/Foto ORLA.JPG' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Estudiante del grado de Ingeniería Informática de la Universidad de Jaén.
 
 - **Correo**: vrivas@ujaen.es
 - **Web**: http://vrivas.es
