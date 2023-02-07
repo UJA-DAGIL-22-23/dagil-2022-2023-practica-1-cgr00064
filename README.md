@@ -9,7 +9,7 @@ Tus tareas consisten en:
 
 ### Carlos Garvín Rubiales
 
-<img src='/vrivas-2022.png' width='200px'>
+<img src='/images/Foto ORLA.JPG' width='200px'>
 
 Profesor del departamento de Informática de la Universidad de Jaén.
 
