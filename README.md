@@ -24,3 +24,7 @@ Captura de pantalla Inicio de Trello
 Captura de pantalla Inicial de GitHub
 
 <img src='/images/Captura de pantalla GitHub.png'>
+
+Captura de pantalla Final de Trello
+
+<img src='/images/Captura de pantalla Final de Trello.png'>
