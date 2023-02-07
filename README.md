@@ -13,7 +13,7 @@ Tus tareas consisten en:
 
 Estudiante del grado de Ingeniería Informática de la Universidad de Jaén.
 
-- **Correo**: vrivas@ujaen.es
+- **Correo**: cgr00064@red.ujaen.es
 - **Web**: http://vrivas.es
 - **GitHub**: https://github.com/vrivas/
 - **Trello**: https://trello.com/vrivas_ujaen_es
