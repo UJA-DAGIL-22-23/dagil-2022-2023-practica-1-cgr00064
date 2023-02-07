@@ -16,3 +16,7 @@ Estudiante del grado de Ingeniería Informática de la Universidad de Jaén.
 - **Correo**: cgr00064@red.ujaen.es
 - **GitHub**: https://github.com/cgr00064
 - **Trello**: https://trello.com/u/cgr00064/boards
+
+Captura de pantalla Inicio de Trello
+
+<img src='/images/Captura de pantalla Inicio de Trello.png'>
