@@ -20,3 +20,7 @@ Estudiante del grado de Ingeniería Informática de la Universidad de Jaén.
 Captura de pantalla Inicio de Trello
 
 <img src='/images/Captura de pantalla Inicio de Trello.png'>
+
+Captura de pantalla Inicial de GitHub
+
+<img src='/images/Captura de pantalla GitHub.png'>
